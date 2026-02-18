@@ -1,4 +1,5 @@
 # Introduction to Hardware and Operating System
+[Visit MY Hackmd.io](https://hackmd.io/@Zg_bDsGbQhaDrJGN2Sgm4Q/r1dF4YHLZe)
 ## 0. System Specifications (HP EliteBook 840 G6)
 
 ### Dashboard Overview
